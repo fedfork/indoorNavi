@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.floorStepper(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Edge.parseDoorsCoordinates():MapView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.doorscoordinates">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapView.drawExits(exits:minX:minY:maxX:maxY:ratioX:ratioY:):MapView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "exit.vertexfromrelationship">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Graph.findShortestPathRunningDijkstra(start:finish:):Graph.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "start.polygon">
+            </PersistentString>
+            <PersistentString
+               value = "finish.polygon">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

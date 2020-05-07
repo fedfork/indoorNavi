@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="T0k-C3-LHb">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Finder Inside View Controller-->
+        <scene sceneID="Pdy-or-sZE">
+            <objects>
+                <viewController modalTransitionStyle="crossDissolve" modalPresentationStyle="overCurrentContext" id="T0k-C3-LHb" customClass="FinderInsideViewController" customModule="indoor_navigation_a" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="MBd-uV-1xR"/>
+                        <viewControllerLayoutGuide type="bottom" id="OeZ-rk-VoX"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kUR-7d-f1T">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rxy-OM-dkA">
+                                <rect key="frame" x="0.0" y="84" width="375" height="200"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" adjustsImageSizeForAccessibilityContentSizeCategory="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oHT-5N-ohA">
+                                        <rect key="frame" x="352" y="8" width="15" height="15"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="15" id="5oW-H4-VW3"/>
+                                            <constraint firstAttribute="height" constant="15" id="7Pa-n3-COF"/>
+                                        </constraints>
+                                        <state key="normal" image="Close"/>
+                                        <connections>
+                                            <action selector="Close:" destination="T0k-C3-LHb" eventType="touchUpInside" id="uRs-vQ-Dqs"/>
+                                        </connections>
+                                    </button>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Мое местоположение" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="JRU-mp-MnD" userLabel="From Field">
+                                        <rect key="frame" x="20" y="20" width="335" height="30"/>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Мое местоположение" textAlignment="natural" adjustsFontSizeToFit="NO" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="veX-Ql-FnX">
+                                        <rect key="frame" x="20" y="58" width="335" height="30"/>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gvP-1r-HUx">
+                                        <rect key="frame" x="239" y="150" width="116" height="30"/>
+                                        <state key="normal" title="Проложить путь">
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="FindWay:" destination="T0k-C3-LHb" eventType="touchUpInside" id="tiT-Rt-NZc"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.97636479139999999" green="0.97653168440000004" blue="0.9763541818" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="JRU-mp-MnD" firstAttribute="top" secondItem="rxy-OM-dkA" secondAttribute="top" constant="20" symbolic="YES" id="6NL-ZK-wbh"/>
+                                    <constraint firstItem="oHT-5N-ohA" firstAttribute="top" secondItem="rxy-OM-dkA" secondAttribute="top" constant="8" id="8OZ-Vd-Ubg"/>
+                                    <constraint firstAttribute="height" constant="200" id="LsA-ph-8Cr"/>
+                                    <constraint firstAttribute="bottom" secondItem="gvP-1r-HUx" secondAttribute="bottom" constant="20" symbolic="YES" id="NPj-68-GXq"/>
+                                    <constraint firstAttribute="trailing" secondItem="JRU-mp-MnD" secondAttribute="trailing" constant="20" symbolic="YES" id="QU8-KK-DVZ"/>
+                                    <constraint firstItem="JRU-mp-MnD" firstAttribute="leading" secondItem="rxy-OM-dkA" secondAttribute="leading" constant="20" symbolic="YES" id="SDf-Gv-TG9"/>
+                                    <constraint firstAttribute="bottom" secondItem="oHT-5N-ohA" secondAttribute="bottom" constant="177" id="TNM-Sj-jjf"/>
+                                    <constraint firstAttribute="trailing" secondItem="veX-Ql-FnX" secondAttribute="trailing" constant="20" symbolic="YES" id="WuQ-hV-yXo"/>
+                                    <constraint firstAttribute="trailing" secondItem="gvP-1r-HUx" secondAttribute="trailing" constant="20" symbolic="YES" id="YM0-cY-PJL"/>
+                                    <constraint firstItem="veX-Ql-FnX" firstAttribute="leading" secondItem="rxy-OM-dkA" secondAttribute="leading" constant="20" symbolic="YES" id="han-iE-nKz"/>
+                                    <constraint firstItem="veX-Ql-FnX" firstAttribute="top" secondItem="JRU-mp-MnD" secondAttribute="bottom" constant="8" symbolic="YES" id="snz-Re-VIT"/>
+                                    <constraint firstItem="gvP-1r-HUx" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="rxy-OM-dkA" secondAttribute="leading" constant="20" symbolic="YES" id="vKS-UZ-pdb"/>
+                                    <constraint firstAttribute="trailing" secondItem="oHT-5N-ohA" secondAttribute="trailing" constant="8" id="z0M-n9-IIw"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="rxy-OM-dkA" firstAttribute="top" secondItem="MBd-uV-1xR" secondAttribute="bottom" constant="40" id="4Ga-Bh-qI5"/>
+                            <constraint firstItem="rxy-OM-dkA" firstAttribute="leading" secondItem="kUR-7d-f1T" secondAttribute="leading" id="e8l-W1-kCa"/>
+                            <constraint firstAttribute="trailing" secondItem="rxy-OM-dkA" secondAttribute="trailing" id="mFx-co-bW4"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="FromField" destination="JRU-mp-MnD" id="00Y-wi-T5V"/>
+                        <outlet property="ToField" destination="veX-Ql-FnX" id="AhV-Tv-vDb"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PR1-7U-zBz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="783" y="888"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Close" width="16" height="16"/>
+    </resources>
+</document>

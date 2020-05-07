@@ -1,0 +1,1188 @@
+Snap ((null)) {
+    Campus =     {
+        "-LY6PG5DJ_baCMsgTVMn" =         {
+            "-LY6W2JrLO8_ZShdVjxb" =             {
+                "-LY6Wh5TkS3G8xY7xqaD" =                 {
+                    "-LYMQmLU7Or8s5lSguSO" =                     {
+                        "-LYMf_pS9p9NofGSx8ky" =                         {
+                            comment = "--";
+                            coordinates = "0.5 0.5";
+                        };
+                        "-LYMf_ph6GQFH4vh_YpB" =                         {
+                            comment = "-?-";
+                            coordinates = "7.5 0.5";
+                        };
+                        "-LYMf_ph6GQFH4vh_YpC" =                         {
+                            comment = "--";
+                            coordinates = "11.5 0.5";
+                        };
+                        "-LYMf_ph6GQFH4vh_YpD" =                         {
+                            comment = "-?-";
+                            coordinates = "0.5 1.5";
+                        };
+                        "-LYMf_ph6GQFH4vh_YpE" =                         {
+                            comment = "--";
+                            coordinates = "0.5 8.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7l" =                         {
+                            comment = "-?-";
+                            coordinates = "0.5 10.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7m" =                         {
+                            comment = "--";
+                            coordinates = "3.5 8.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7n" =                         {
+                            comment = "-?-";
+                            coordinates = "3.5 10.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7o" =                         {
+                            comment = "--";
+                            coordinates = "6.5 10.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7p" =                         {
+                            comment = "-?-";
+                            coordinates = "8.5 10.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7q" =                         {
+                            comment = "--";
+                            coordinates = "11.5 10.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7r" =                         {
+                            comment = "-?-";
+                            coordinates = "11.5 6.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7s" =                         {
+                            comment = "--";
+                            coordinates = "8.5 9.5";
+                        };
+                        "-LYMf_pi7DpDrgkuOo7t" =                         {
+                            comment = "-?-";
+                            coordinates = "8.5 7.5";
+                        };
+                        "-LYMf_pjIf0YMtONHGVp" =                         {
+                            comment = "-?-";
+                            coordinates = "10.5 6.5";
+                        };
+                        comment = Snowly;
+                        name = Hallway;
+                        polygon = "0 0 12 0 12 11 0 11";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eQ" =                     {
+                        "-LYMf_pjIf0YMtONHGVq" =                         {
+                            comment = "|||";
+                            coordinates = "1.5 1.5";
+                        };
+                        "-LYMf_pjIf0YMtONHGVr" =                         {
+                            comment = "||";
+                            coordinates = "5 2";
+                        };
+                        "-LYMf_pjIf0YMtONHGVs" =                         {
+                            comment = "|||";
+                            coordinates = "2 5";
+                        };
+                        "-LYMf_pjIf0YMtONHGVt" =                         {
+                            comment = "||";
+                            coordinates = "4.5 5.5";
+                        };
+                        comment = Snowly;
+                        name = Hallway1;
+                        polygon = "1 1 6 1 6 4 5 6 1 6";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eR" =                     {
+                        "-LYMf_pkgltLJgaBCU-E" =                         {
+                            comment = "|||";
+                            coordinates = "7.5 1.5";
+                        };
+                        "-LYMf_pkgltLJgaBCU-F" =                         {
+                            comment = "||";
+                            coordinates = "6.5 3.5";
+                        };
+                        "-LYMf_pkgltLJgaBCU-G" =                         {
+                            comment = "||";
+                            coordinates = "8 3";
+                        };
+                        comment = Snowly;
+                        name = Hallway2;
+                        polygon = "6 1 9 1 9 3 8 4 6 4";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eS" =                     {
+                        "-LYMf_pkgltLJgaBCU-H" =                         {
+                            comment = "|||";
+                            coordinates = "10.5 1.5";
+                        };
+                        "-LYMf_pkgltLJgaBCU-I" =                         {
+                            comment = "||";
+                            coordinates = "9 4";
+                        };
+                        "-LYMf_pkgltLJgaBCU-J" =                         {
+                            comment = "||";
+                            coordinates = "10.5 5.5";
+                        };
+                        comment = Snowly;
+                        name = Hallway3;
+                        polygon = "9 1 11 1 11 6 9 6 8 4 9 3";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eT" =                     {
+                        "-LYMf_pkgltLJgaBCU-K" =                         {
+                            comment = "|||";
+                            coordinates = "9.5 9.5";
+                        };
+                        comment = Snowly;
+                        name = Hallway4;
+                        polygon = "9 8 11 8 11 10 9 10";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eU" =                     {
+                        comment = Snowly;
+                        name = Hallway5;
+                        polygon = "5 8 6 8 6 10 5 10";
+                        type = 0;
+                    };
+                    "-LYMQmLXx0KR84iuo1eV" =                     {
+                        "-LYMf_pkgltLJgaBCU-L" =                         {
+                            comment = "|||";
+                            coordinates = "1.5 7.5";
+                        };
+                        "-LYMf_plnAuy_w3p4w_S" =                         {
+                            comment = "|||";
+                            coordinates = "4.5 6.5";
+                        };
+                        "-LYMf_plnAuy_w3p4w_T" =                         {
+                            comment = "|||";
+                            coordinates = "3.5 7.5";
+                        };
+                        comment = Snowly;
+                        name = Hallway6;
+                        polygon = "1 6 5 6 6 8 1 8";
+                        type = 0;
+                    };
+                    comment = "A lot of people";
+                    name = FirstFloor;
+                };
+                "-LY6Wh5jFmLLxSDOmJa8" =                 {
+                    comment = "Good shop";
+                    name = SecondFloor;
+                };
+                "-LY6Wh5jFmLLxSDOmJa9" =                 {
+                    comment = "Wonderful place";
+                    name = LastFloor;
+                };
+                adress = "Leninskye Gori, 1";
+                comment = Testy;
+                id = "";
+                name = MainBuilding;
+            };
+            "-LY6W2K2SRlhKX5mGlw5" =             {
+                adress = "Leninskye Gori, 2";
+                comment = "Nice math";
+                name = VMKBuilding;
+            };
+            comment = "Oldest University";
+            name = MSU;
+        };
+        "-LY6PG5hARIHmXpP3bEm" =         {
+            comment = "Far leaving";
+            name = HSE;
+        };
+        "-LYWJnMjusE-JUl-G2lP" =         {
+            "-LYWP-mdFM7wTk3Emnrc" =             {
+                "-LYWPeZoh_dIjuJEP0KV" =                 {
+                    "-LYWiMw4G42r12-AbSp0" =                     {
+                        "-LYYOKwtjuC_oQA0OON2" =                         {
+                            comment = "--";
+                            coordinates = "24 2";
+                        };
+                        "-LYYOKx6KATLVnQztmVM" =                         {
+                            comment = "-?-";
+                            coordinates = "29 4";
+                        };
+                        "-LYYOKx6KATLVnQztmVN" =                         {
+                            comment = "--";
+                            coordinates = "25 11";
+                        };
+                        "-LYYOKx6KATLVnQztmVO" =                         {
+                            comment = "-?-";
+                            coordinates = "28 13";
+                        };
+                        "-LYb1TxzFxovzlEqj0pP" =                         {
+                            commentbeacon = gg;
+                            coordinatesbeacon = "31 17";
+                            heightbeacon = 0;
+                            majorminorbeacon = "123 1";
+                            namebeacon = Roma;
+                            uuidbeacon = "10F86430-1346-11E4-9191-0800200C9A66";
+                        };
+                        "-LYb1Ty0c_TJCer-n7xz" =                         {
+                            commentbeacon = gg;
+                            coordinatesbeacon = "25 12";
+                            heightbeacon = 0;
+                            majorminorbeacon = "123 2";
+                            namebeacon = Vadim;
+                            uuidbeacon = "10F86430-1346-11E4-9191-0800200C9A66";
+                        };
+                        "-LYbKzIqcywd0OjvOCKX" =                         {
+                            commentbeacon = gg;
+                            coordinatesbeacon = "30 2";
+                            heightbeacon = 0;
+                            majorminorbeacon = "123 3";
+                            namebeacon = Dmitry;
+                            uuidbeacon = "10F86430-1346-11E4-9191-0800200C9A66";
+                        };
+                        "-LYbOsS4976dhVwf54Vb" =                         {
+                            commentbeacon = gg;
+                            coordinatesbeacon = "22 2";
+                            heightbeacon = 0;
+                            majorminorbeacon = "123 4";
+                            namebeacon = Tanya;
+                            uuidbeacon = "10F86430-1346-11E4-9191-0800200C9A66";
+                        };
+                        comment = Presentation;
+                        name = "4\U0415";
+                        polygon = "17 3 29 0 31 1 32 3 32 14 25 14 25 13 23 12 20 12";
+                        type = 0;
+                    };
+                    "-LYWiMw5uP98zIESjSoI" =                     {
+                        comment = Snowly;
+                        name = "\U0421\U0442\U043e\U0439\U043a\U0430";
+                        polygon = "20 12 21 15 25 14 25 13 23 12";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yh" =                     {
+                        "-LY_lALTLiEJlrWHx2lK" =                         {
+                            comment = "--";
+                            coordinates = "23 25";
+                        };
+                        "-LY_lALUS9nnTcyeeBqw" =                         {
+                            comment = "-?-";
+                            coordinates = "15 28";
+                        };
+                        comment = "\U0411\U043e\U043b\U044c\U0448\U043e\U0439 \U0437\U0430\U043b";
+                        name = 3E;
+                        polygon = "17 3 24 24 24 26 21 29 0 29 0 15";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yi" =                     {
+                        "-LYYOKx6KATLVnQztmVP" =                         {
+                            comment = "|||";
+                            coordinates = "28 15";
+                        };
+                        "-LYYOKx6KATLVnQztmVQ" =                         {
+                            comment = "||";
+                            coordinates = "27 20";
+                        };
+                        "-LYYOKx6KATLVnQztmVR" =                         {
+                            comment = "|||";
+                            coordinates = "25 25";
+                        };
+                        "-LYYOKx6KATLVnQztmVS" =                         {
+                            comment = "||";
+                            coordinates = "27 33";
+                        };
+                        comment = Windly;
+                        name = "\U0411\U043e\U043b\U044c\U0448\U043e\U0439 \U043a\U043e\U0440\U0440\U0438\U0434\U043e\U0440";
+                        polygon = "21 15 25 14 32 14 32 25 31 29 29 32 26 35 23 37 19 38 19 31 21 29 24 26 24 24";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yj" =                     {
+                        comment = Snowly;
+                        name = "2\U0415";
+                        polygon = "19 31 19 38 10 40 10 31";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yk" =                     {
+                        comment = Snowly;
+                        name = "1\U0415";
+                        polygon = "0 31 10 31 10 40 0 42";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yl" =                     {
+                        comment = Snowly;
+                        name = Stolb1;
+                        polygon = "30 4 31 4 31 5 30 5";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6ym" =                     {
+                        comment = Snowly;
+                        name = Stolb2;
+                        polygon = "30 7 31 7 31 8 30 8";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yn" =                     {
+                        comment = Snowly;
+                        name = Stolb3;
+                        polygon = "30 10 31 10 31 11 30 11";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yo" =                     {
+                        comment = Snowly;
+                        name = "\U041f\U0435\U0440\U0435\U0433\U043e\U0432\U043e\U0440\U043d\U0430\U044f 1";
+                        polygon = "20 12 22 12 22 10 19 9";
+                        type = 0;
+                    };
+                    "-LYWiMw6XhZszuZeb6yp" =                     {
+                        comment = Snowly;
+                        name = "\U041f\U0435\U0440\U0435\U0433\U043e\U0432\U043e\U0440\U043d\U0430\U044f 2";
+                        polygon = "19 9 18.5 7.5 22 8 22 10";
+                        type = 0;
+                    };
+                    "-LYWiMw7xZZYUuM-UDq8" =                     {
+                        comment = Snowly;
+                        name = "\U041f\U0435\U0440\U0435\U0433\U043e\U0432\U043e\U0440\U043d\U0430\U044f 3";
+                        polygon = "18.5 7.5 22 8 22 6 18 6";
+                        type = 0;
+                    };
+                    "-LYWiMw7xZZYUuM-UDq9" =                     {
+                        comment = Snowly;
+                        name = "\U041f\U0435\U0440\U0435\U0433\U043e\U0432\U043e\U0440\U043d\U0430\U044f 4";
+                        polygon = "22 6 18 6 17.5 4.5 22 4";
+                        type = 0;
+                    };
+                    "-LYWjo8hPWGuGdzUkVwp" =                     {
+                        comment = Snowly;
+                        name = "\U041f\U0435\U0440\U0435\U0433\U043e\U0432\U043e\U0440\U043d\U0430\U044f 5";
+                        polygon = "17.5 4.5 22 4 21 2 17 3";
+                        type = 0;
+                    };
+                    "-LYWjo8jp37t99PatjXA" =                     {
+                        comment = Snowly;
+                        name = Corridor1;
+                        polygon = "0 29 0 31 19 31 21 29";
+                        type = 0;
+                    };
+                    "-LYWz82CfXFqC_azAx8s" =                     {
+                        comment = Snowly;
+                        name = Corridor3;
+                        polygon = "36 36 38 28 40 28 38 37";
+                        type = 0;
+                    };
+                    "-LYWz82CfXFqC_azAx8t" =                     {
+                        comment = Snowly;
+                        name = Corridor4;
+                        polygon = "38 37 40 28 47 28 49 37";
+                        type = 0;
+                    };
+                    "-LYWz82CfXFqC_azAx8u" =                     {
+                        "-LYYOKx9NotlSPz1d-gj" =                         {
+                            comment = "|||";
+                            coordinates = "32 41";
+                        };
+                        comment = Snowly;
+                        name = "\U041c\U0435\U0434 \U041f\U0443\U043d\U043a\U0442";
+                        polygon = "32 38 34 39 32 42 30 40";
+                        type = 0;
+                    };
+                    "-LYWz82CfXFqC_azAx8v" =                     {
+                        comment = Snowly;
+                        name = Room1;
+                        polygon = "33 34 36 36 37 32 35 31";
+                        type = 0;
+                    };
+                    "-LYWz82DkJwK0OW4qtSl" =                     {
+                        comment = Snowly;
+                        name = Room2;
+                        polygon = "37 32 35 31 36 28 38 28";
+                        type = 0;
+                    };
+                    "-LYX0lDYcTnlMRK1oYfa" =                     {
+                        "-LYYOKx7rxXTh2bIUjPe" =                         {
+                            comment = "|||";
+                            coordinates = "28 34";
+                        };
+                        "-LYYOKx7rxXTh2bIUjPf" =                         {
+                            comment = "||";
+                            coordinates = "36 38";
+                        };
+                        "-LYYOKx7rxXTh2bIUjPg" =                         {
+                            comment = "||";
+                            coordinates = "44 39";
+                        };
+                        "-LYYOKx7rxXTh2bIUjPh" =                         {
+                            comment = "||";
+                            coordinates = "52 39";
+                        };
+                        "-LYYOKx7rxXTh2bIUjPi" =                         {
+                            comment = "||";
+                            coordinates = "55 39";
+                        };
+                        "-LYYOKx7rxXTh2bIUjPj" =                         {
+                            comment = "||";
+                            coordinates = "57 44";
+                        };
+                        "-LY_qOqAr8A3MGIabcYj" =                         {
+                            comment = "--";
+                            coordinates = "33 42";
+                        };
+                        comment = Snowly;
+                        name = "\U0414\U043b\U0438\U043d\U043d\U044b\U0439 \U043a\U043e\U0440\U0440\U0438\U0434\U043e\U0440";
+                        polygon = "29 32 26 35 34 39 30 45 30 49 36 40 54 40 60 49 60 45 54 37 38 37 36 36 33 34";
+                        type = 0;
+                    };
+                    "-LYXF5dW3Kdetxebw-jT" =                     {
+                        comment = Snowly;
+                        name = Room3;
+                        polygon = "30 49 30 54 34 51 34 43";
+                        type = 0;
+                    };
+                    "-LYXF5djMXnPjby7YuhD" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0435\U0441\U0442\U043d\U0438\U0446\U0430";
+                        polygon = "34 51 34 43 36 40 41 40 41 43 38 43 38 51";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613oi" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0438\U0444\U0442 1";
+                        polygon = "38 43 41 43 41 46 38 46";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613oj" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0438\U0444\U0442 2";
+                        polygon = "41 46 38 46 38 49 41 49";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613ok" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0438\U0444\U0442 3";
+                        polygon = "38 49 41 49 41 52 38 52";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613ol" =                     {
+                        comment = Snowly;
+                        name = "\U0423\U0431\U043e\U0440\U043d\U0430\U044f";
+                        polygon = "48 40 48 46 51 46 51 40";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613om" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0438\U0444\U0442 4";
+                        polygon = "48 46 51 46 51 49 48 49";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613on" =                     {
+                        comment = Snowly;
+                        name = "\U041b\U0438\U0444\U0442 5";
+                        polygon = "48 49 48 52 51 52 51 49";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613oo" =                     {
+                        "-LYYOKx9NotlSPz1d-gk" =                         {
+                            comment = "|||";
+                            coordinates = "52 41";
+                        };
+                        comment = Snowly;
+                        name = "\U041c\U0443\U0436\U0441\U043a\U043e\U0439 \U0442\U0443\U0430\U043b\U0435\U0442";
+                        polygon = "51 40 51 52 54 53 54 43 56 43 54 40";
+                        type = 0;
+                    };
+                    "-LYXF5dkBpOqPzW613op" =                     {
+                        "-LYYOKx9NotlSPz1d-gl" =                         {
+                            comment = "|||";
+                            coordinates = "56 45";
+                        };
+                        comment = Snowly;
+                        name = "\U0416\U0435\U043d\U0441\U043a\U0438\U0439 \U0442\U0443\U0430\U043b\U0435\U0442";
+                        polygon = "56 43 54 43 54 53 57 54 58 46";
+                        type = 0;
+                    };
+                    "-LYXF5dlZPW2uHxgQk7n" =                     {
+                        comment = Snowly;
+                        name = Room4;
+                        polygon = "58 46 57 54 60 55 60 49";
+                        type = 0;
+                    };
+                    "-LYXF5dlZPW2uHxgQk7o" =                     {
+                        comment = Snowly;
+                        name = Room5;
+                        polygon = "60 55 59 62 55 60 54 60 54 53";
+                        type = 0;
+                    };
+                    "-LYY4oNj6zE75ms-j1Ce" =                     {
+                        comment = Snowly;
+                        name = Room6;
+                        polygon = "51 52 51 60 54 60 54 53";
+                        type = 0;
+                    };
+                    "-LYY4oOZNJC6rujgVu82" =                     {
+                        comment = Snowly;
+                        name = Room7;
+                        polygon = "34 51 38 51 38 60 35 60";
+                        type = 0;
+                    };
+                    "-LYY4oOZNJC6rujgVu83" =                     {
+                        comment = Snowly;
+                        name = Room8;
+                        polygon = "34 51 30 54 30 62 34 60 35 60";
+                        type = 0;
+                    };
+                    "-LYY4oOZNJC6rujgVu84" =                     {
+                        "-LYYOKx8N4VmSr9qUr-L" =                         {
+                            comment = "|||";
+                            coordinates = "44 41";
+                        };
+                        "-LYYOKx8N4VmSr9qUr-M" =                         {
+                            comment = "||";
+                            coordinates = "43 45";
+                        };
+                        "-LYYOKx8N4VmSr9qUr-N" =                         {
+                            comment = "||";
+                            coordinates = "47 51";
+                        };
+                        "-LYYOKx8N4VmSr9qUr-O" =                         {
+                            comment = "||";
+                            coordinates = "47 64";
+                        };
+                        comment = Snowly;
+                        name = "\U0425\U043e\U043b\U043b";
+                        polygon = "41 40 41 52 38 52 38 61 35 62 34 64 35 66 37 67 39 67 41 66 48 66 50 67 52 67 54 66 55 64 54 62 51 61 51 52 48 52 48 40";
+                        type = 0;
+                    };
+                    "-LYakMfOzAdPiEWMlrvk" =                     {
+                        "-LYanXAFe-dAVYdeytco" =                         {
+                            comment = "|||";
+                            coordinates = "23 1";
+                        };
+                        comment = Snowly;
+                        name = "\U0417\U0430\U043f\U0430\U0441\U043d\U043e\U0439 \U0432\U044b\U0445\U043e\U0434";
+                        polygon = "23 1.5 25 1 23 1";
+                        type = 0;
+                    };
+                    "-LYakMfdPrXRzWDv3kOu" =                     {
+                        "-LYanXAEQ0xnroLl5KEI" =                         {
+                            comment = "--";
+                            coordinates = "46 66";
+                        };
+                        comment = Snowly;
+                        name = "\U0412\U044b\U0445\U043e\U0434";
+                        polygon = "45 65 45 67 47 67 47 65";
+                        type = 0;
+                    };
+                    "-LYakMfdPrXRzWDv3kOv" =                     {
+                        comment = Snowly;
+                        name = "\U0412\U044b\U0445\U043e\U04341";
+                        polygon = "42 65 44 65 44 67 42 67";
+                        type = 0;
+                    };
+                    comment = "A lot of people";
+                    name = 01;
+                };
+                "-LYWPeZpAfMnMmVrAHzL" =                 {
+                    "-LYY8VEJRqwSKZQGFecI" =                     {
+                        "-LYYOKx9NotlSPz1d-gi" =                         {
+                            comment = "|||";
+                            coordinates = "27 33";
+                        };
+                        comment = Windly;
+                        name = "\U042f\U043d\U0434\U0435\U043a\U0441";
+                        polygon = "21 15 25 14 32 14 32 25 31 29 29 32 26 35 23 37 19 38 19 31 21 29 24 26 24 24";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCP" =                     {
+                        "-LYYOKx8N4VmSr9qUr-R" =                         {
+                            comment = "|||";
+                            coordinates = "28 34";
+                        };
+                        "-LYYOKx8N4VmSr9qUr-S" =                         {
+                            comment = "||";
+                            coordinates = "36 38";
+                        };
+                        "-LYYOKx9NotlSPz1d-gh" =                         {
+                            comment = "||";
+                            coordinates = "44 39";
+                        };
+                        comment = Snowly;
+                        name = "\U041a\U043e\U0440\U0440\U0438\U0434\U043e\U0440 \U0432\U0442\U043e\U0440\U043e\U0433\U043e \U044d\U0442\U0430\U0436\U0430";
+                        polygon = "29 32 26 35 34 39 30 45 30 49 36 40 54 40 60 49 60 45 54 37 38 37 36 36 33 34";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCQ" =                     {
+                        comment = Snowly;
+                        name = SecondStair;
+                        polygon = "34 51 34 43 36 40 41 40 41 43 38 43 38 51";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCR" =                     {
+                        comment = Snowly;
+                        name = Lift1;
+                        polygon = "38 43 41 43 41 46 38 46";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCS" =                     {
+                        comment = Snowly;
+                        name = Lift2;
+                        polygon = "41 46 38 46 38 49 41 49";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCT" =                     {
+                        comment = Snowly;
+                        name = Lift3;
+                        polygon = "38 49 41 49 41 52 38 52";
+                        type = 0;
+                    };
+                    "-LYY8VEa0CNRZ2h0haCU" =                     {
+                        comment = Snowly;
+                        name = Ybornaia;
+                        polygon = "48 40 48 46 51 46 51 40";
+                        type = 0;
+                    };
+                    "-LYY8VEbrO5uvIuf_67v" =                     {
+                        comment = Snowly;
+                        name = Lift4;
+                        polygon = "48 46 51 46 51 49 48 49";
+                        type = 0;
+                    };
+                    "-LYY8VEbrO5uvIuf_67w" =                     {
+                        comment = Snowly;
+                        name = Lift5;
+                        polygon = "48 49 48 52 51 52 51 49";
+                        type = 0;
+                    };
+                    "-LYY8VEbrO5uvIuf_67x" =                     {
+                        comment = Snowly;
+                        name = SecondRoom7;
+                        polygon = "34 51 38 51 38 60 35 60";
+                        type = 0;
+                    };
+                    "-LYY8VEbrO5uvIuf_67y" =                     {
+                        "-LYYOKx8N4VmSr9qUr-P" =                         {
+                            comment = "|||";
+                            coordinates = "44 41";
+                        };
+                        "-LYYOKx8N4VmSr9qUr-Q" =                         {
+                            comment = "||";
+                            coordinates = "43 45";
+                        };
+                        comment = Snowly;
+                        name = "\U0425\U043e\U043b\U043b \U0432\U0442\U043e\U0440\U043e\U0433\U043e \U044d\U0442\U0430\U0436\U0430";
+                        polygon = "41 40 41 52 38 52 38 60 51 60 51 52 48 52 48 40";
+                        type = 0;
+                    };
+                    "-LYYBGeh346yB8I2d-3j" =                     {
+                        comment = Snowly;
+                        name = Room3;
+                        polygon = "30 49 30 54 34 51 34 43";
+                        type = 0;
+                    };
+                    "-LYYBGejKy39lSf1I5de" =                     {
+                        comment = Snowly;
+                        name = Mwc2;
+                        polygon = "51 40 51 52 54 53 54 43 56 43 54 40";
+                        type = 0;
+                    };
+                    "-LYYBGejKy39lSf1I5df" =                     {
+                        comment = Snowly;
+                        name = Wwc2;
+                        polygon = "56 43 54 43 54 53 57 54 58 46";
+                        type = 0;
+                    };
+                    "-LYYBGejKy39lSf1I5dg" =                     {
+                        comment = Snowly;
+                        name = Room4;
+                        polygon = "58 46 57 54 60 55 60 49";
+                        type = 0;
+                    };
+                    "-LYYBGejKy39lSf1I5dh" =                     {
+                        comment = Snowly;
+                        name = Room5;
+                        polygon = "60 55 59 62 55 60 54 60 54 53";
+                        type = 0;
+                    };
+                    "-LYYBGejKy39lSf1I5di" =                     {
+                        comment = Snowly;
+                        name = Room6;
+                        polygon = "51 52 51 60 54 60 54 53";
+                        type = 0;
+                    };
+                    "-LYYBGeko1UZG6EpWwNs" =                     {
+                        comment = Snowly;
+                        name = SecondRoom7;
+                        polygon = "34 51 38 51 38 60 35 60";
+                        type = 0;
+                    };
+                    "-LYYBGeko1UZG6EpWwNt" =                     {
+                        comment = Snowly;
+                        name = Room8;
+                        polygon = "34 51 30 54 30 62 34 60 35 60";
+                        type = 0;
+                    };
+                    comment = "Good shop";
+                    name = 02;
+                };
+                adress = "\U0422\U0440\U0438\U0443\U043c\U0444\U0430\U043b\U044c\U043d\U044b\U0439 \U043f\U0440\U043e\U0435\U0437\U0434, \U0434.1";
+                comment = Testy;
+                name = YandexBuilding;
+            };
+            comment = Sochi;
+            name = Sirius;
+        };
+    };
+    Edge =     {
+        "-LY_mIPkeiwVIbya-blY" =         {
+            commentEdge = "[[[";
+            distance = "5.3";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKwtjuC_oQA0OON2";
+            vertexto = "-LYYOKx6KATLVnQztmVM";
+        };
+        "-LY_mIPl0C5EZwQtCHQD" =         {
+            commentEdge = "]]]";
+            distance = "5.3";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVM";
+            vertexto = "-LYYOKwtjuC_oQA0OON2";
+        };
+        "-LY_mIPl0C5EZwQtCHQE" =         {
+            commentEdge = "[[[";
+            distance = 10;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKwtjuC_oQA0OON2";
+            vertexto = "-LYYOKx6KATLVnQztmVN";
+        };
+        "-LY_mIPl0C5EZwQtCHQF" =         {
+            commentEdge = "]]]";
+            distance = 10;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVN";
+            vertexto = "-LYYOKwtjuC_oQA0OON2";
+        };
+        "-LY_mIPmYcKwhgpvhyO7" =         {
+            commentEdge = "[[[";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVN";
+            vertexto = "-LYYOKx6KATLVnQztmVO";
+        };
+        "-LY_mIPmYcKwhgpvhyO8" =         {
+            commentEdge = "]]]";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVO";
+            vertexto = "-LYYOKx6KATLVnQztmVN";
+        };
+        "-LY_mIPmYcKwhgpvhyO9" =         {
+            commentEdge = "[[[";
+            distance = 9;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVM";
+            vertexto = "-LYYOKx6KATLVnQztmVO";
+        };
+        "-LY_mIPmYcKwhgpvhyOA" =         {
+            commentEdge = "]]]";
+            distance = 9;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVO";
+            vertexto = "-LYYOKx6KATLVnQztmVM";
+        };
+        "-LY_mIPnjmBsrfZZR18j" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "27 14 29 14";
+            vertexfrom = "-LYYOKx6KATLVnQztmVO";
+            vertexto = "-LYYOKx6KATLVnQztmVP";
+        };
+        "-LY_mIPnjmBsrfZZR18k" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "27 14 29 14";
+            vertexfrom = "-LYYOKx6KATLVnQztmVP";
+            vertexto = "-LYYOKx6KATLVnQztmVO";
+        };
+        "-LY_mIPnjmBsrfZZR18l" =         {
+            commentEdge = "[[[";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVP";
+            vertexto = "-LYYOKx6KATLVnQztmVQ";
+        };
+        "-LY_mIPonbqPqx0Q9WWS" =         {
+            commentEdge = "]]]";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVQ";
+            vertexto = "-LYYOKx6KATLVnQztmVP";
+        };
+        "-LY_mIPonbqPqx0Q9WWT" =         {
+            commentEdge = "[[[";
+            distance = 13;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVQ";
+            vertexto = "-LYYOKx6KATLVnQztmVS";
+        };
+        "-LY_mIPonbqPqx0Q9WWU" =         {
+            commentEdge = "]]]";
+            distance = 13;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVS";
+            vertexto = "-LYYOKx6KATLVnQztmVQ";
+        };
+        "-LY_mIPonbqPqx0Q9WWV" =         {
+            commentEdge = "[[[";
+            distance = "5.3";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVR";
+            vertexto = "-LYYOKx6KATLVnQztmVQ";
+        };
+        "-LY_mIPpp97haIXKXVbk" =         {
+            commentEdge = "]]]";
+            distance = "5.3";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVQ";
+            vertexto = "-LYYOKx6KATLVnQztmVR";
+        };
+        "-LY_mIPpp97haIXKXVbl" =         {
+            commentEdge = "[[[";
+            distance = 8;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVR";
+            vertexto = "-LYYOKx6KATLVnQztmVS";
+        };
+        "-LY_mIPpp97haIXKXVbm" =         {
+            commentEdge = "]]]";
+            distance = 8;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx6KATLVnQztmVS";
+            vertexto = "-LYYOKx6KATLVnQztmVR";
+        };
+        "-LY_mIPqiX7bt6VIcf1e" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "24 24 24 26";
+            vertexfrom = "-LY_lALTLiEJlrWHx2lK";
+            vertexto = "-LYYOKx6KATLVnQztmVR";
+        };
+        "-LY_mIPqiX7bt6VIcf1f" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "24 24 24 26";
+            vertexfrom = "-LYYOKx6KATLVnQztmVR";
+            vertexto = "-LY_lALTLiEJlrWHx2lK";
+        };
+        "-LY_xazc7UYIiZqi0miP" =         {
+            commentEdge = "[[[";
+            distance = 1;
+            doorscoordinates = "28 33 27 34";
+            vertexfrom = "-LYYOKx6KATLVnQztmVS";
+            vertexto = "-LYYOKx7rxXTh2bIUjPe";
+        };
+        "-LY_xazfZZgF48OPVNt9" =         {
+            commentEdge = "]]]";
+            distance = 1;
+            doorscoordinates = "27 34 28 33";
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPe";
+            vertexto = "-LYYOKx6KATLVnQztmVS";
+        };
+        "-LY_xazfZZgF48OPVNtA" =         {
+            commentEdge = "[[[";
+            distance = 5;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPe";
+            vertexto = "-LYYOKx7rxXTh2bIUjPf";
+        };
+        "-LY_xazfZZgF48OPVNtB" =         {
+            commentEdge = "]]]";
+            distance = 5;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPf";
+            vertexto = "-LYYOKx7rxXTh2bIUjPe";
+        };
+        "-LY_xazfZZgF48OPVNtC" =         {
+            commentEdge = "[[[";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPf";
+            vertexto = "-LY_qOqAr8A3MGIabcYj";
+        };
+        "-LY_xazgeDXLaAKHvm5O" =         {
+            commentEdge = "]]]";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LY_qOqAr8A3MGIabcYj";
+            vertexto = "-LYYOKx7rxXTh2bIUjPf";
+        };
+        "-LY_xazgeDXLaAKHvm5P" =         {
+            commentEdge = "[[[";
+            distance = "8.1";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPf";
+            vertexto = "-LYYOKx7rxXTh2bIUjPg";
+        };
+        "-LY_xazgeDXLaAKHvm5Q" =         {
+            commentEdge = "]]]";
+            distance = "8.1";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPg";
+            vertexto = "-LYYOKx7rxXTh2bIUjPf";
+        };
+        "-LY_xazgeDXLaAKHvm5R" =         {
+            commentEdge = "[[[";
+            distance = "8.1";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPg";
+            vertexto = "-LYYOKx7rxXTh2bIUjPh";
+        };
+        "-LY_xazhkZhKs_14CI4t" =         {
+            commentEdge = "]]]";
+            distance = "8.1";
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPh";
+            vertexto = "-LYYOKx7rxXTh2bIUjPg";
+        };
+        "-LY_xazhkZhKs_14CI4u" =         {
+            commentEdge = "[[[";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPh";
+            vertexto = "-LYYOKx7rxXTh2bIUjPi";
+        };
+        "-LY_xazhkZhKs_14CI4v" =         {
+            commentEdge = "]]]";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPi";
+            vertexto = "-LYYOKx7rxXTh2bIUjPh";
+        };
+        "-LY_xazivu28McTy7vy6" =         {
+            commentEdge = "[[[";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPj";
+            vertexto = "-LYYOKx7rxXTh2bIUjPi";
+        };
+        "-LY_xazivu28McTy7vy7" =         {
+            commentEdge = "]]]";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPi";
+            vertexto = "-LYYOKx7rxXTh2bIUjPj";
+        };
+        "-LY_xazjutbTzYalptuy" =         {
+            commentEdge = "[[[";
+            distance = 1;
+            doorscoordinates = "32 42 33 40.5";
+            vertexfrom = "-LY_qOqAr8A3MGIabcYj";
+            vertexto = "-LYYOKx9NotlSPz1d-gj";
+        };
+        "-LY_xazjutbTzYalptuz" =         {
+            commentEdge = "]]]";
+            distance = 1;
+            doorscoordinates = "32 42 33 40.5";
+            vertexfrom = "-LYYOKx9NotlSPz1d-gj";
+            vertexto = "-LY_qOqAr8A3MGIabcYj";
+        };
+        "-LY_xazjutbTzYalptv-" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "43 40 46 40";
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPg";
+            vertexto = "-LYYOKx8N4VmSr9qUr-L";
+        };
+        "-LY_xazkryNpKwe_Cmaa" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "43 40 46 40";
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-L";
+            vertexto = "-LYYOKx7rxXTh2bIUjPg";
+        };
+        "-LY_xazkryNpKwe_Cmab" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "51 40 52 40";
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPh";
+            vertexto = "-LYYOKx9NotlSPz1d-gk";
+        };
+        "-LY_xazkryNpKwe_Cmac" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "51 40 52 40";
+            vertexfrom = "-LYYOKx9NotlSPz1d-gk";
+            vertexto = "-LYYOKx7rxXTh2bIUjPh";
+        };
+        "-LY_xazkryNpKwe_Cmad" =         {
+            commentEdge = "[[[";
+            distance = 1;
+            doorscoordinates = "56.66 44 57.33 45";
+            vertexfrom = "-LYYOKx9NotlSPz1d-gl";
+            vertexto = "-LYYOKx7rxXTh2bIUjPj";
+        };
+        "-LY_xazlA-cHBk-DS6SZ" =         {
+            commentEdge = "]]]";
+            distance = 1;
+            doorscoordinates = "56.66 44 57.33 45";
+            vertexfrom = "-LYYOKx7rxXTh2bIUjPj";
+            vertexto = "-LYYOKx9NotlSPz1d-gl";
+        };
+        "-LYaCiDlO6_rIHFi1rD9" =         {
+            commentEdge = "[[[";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-L";
+            vertexto = "-LYYOKx8N4VmSr9qUr-M";
+        };
+        "-LYaCiDnOJRztbJh7Nwu" =         {
+            commentEdge = "]]]";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-M";
+            vertexto = "-LYYOKx8N4VmSr9qUr-L";
+        };
+        "-LYaCiDnOJRztbJh7Nwv" =         {
+            commentEdge = "[[[";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-N";
+            vertexto = "-LYYOKx8N4VmSr9qUr-M";
+        };
+        "-LYaCiDox1q2HH6VvssC" =         {
+            commentEdge = "]]]";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-M";
+            vertexto = "-LYYOKx8N4VmSr9qUr-N";
+        };
+        "-LYaCiDox1q2HH6VvssD" =         {
+            commentEdge = "[[[";
+            distance = 13;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-N";
+            vertexto = "-LYYOKx8N4VmSr9qUr-O";
+        };
+        "-LYaCiDox1q2HH6VvssE" =         {
+            commentEdge = "]]]";
+            distance = 13;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-O";
+            vertexto = "-LYYOKx8N4VmSr9qUr-N";
+        };
+        "-LYaCiDox1q2HH6VvssF" =         {
+            commentEdge = "[[[";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-O";
+            vertexto = "-LYanXAEQ0xnroLl5KEI";
+        };
+        "-LYaCiDox1q2HH6VvssG" =         {
+            commentEdge = "]]]";
+            distance = 3;
+            doorscoordinates = nil;
+            vertexfrom = "-LYanXAEQ0xnroLl5KEI";
+            vertexto = "-LYYOKx8N4VmSr9qUr-O";
+        };
+        "-LYaCiDox1q2HH6VvssH" =         {
+            commentEdge = "[[[";
+            distance = 0;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-M";
+            vertexto = "-LYYOKx8N4VmSr9qUr-Q";
+        };
+        "-LYaCiDpNCiWL9m66DGi" =         {
+            commentEdge = "]]]";
+            distance = 0;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-Q";
+            vertexto = "-LYYOKx8N4VmSr9qUr-M";
+        };
+        "-LYaCiDpNCiWL9m66DGj" =         {
+            commentEdge = "[[[";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-Q";
+            vertexto = "-LYYOKx8N4VmSr9qUr-P";
+        };
+        "-LYaCiDpNCiWL9m66DGk" =         {
+            commentEdge = "]]]";
+            distance = 4;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-P";
+            vertexto = "-LYYOKx8N4VmSr9qUr-Q";
+        };
+        "-LYaCiDqv-t9KCEKXMsS" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "43 40 46 40";
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-P";
+            vertexto = "-LYYOKx9NotlSPz1d-gh";
+        };
+        "-LYaCiDqv-t9KCEKXMsT" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "43 40 46 40";
+            vertexfrom = "-LYYOKx9NotlSPz1d-gh";
+            vertexto = "-LYYOKx8N4VmSr9qUr-P";
+        };
+        "-LYaCiDqv-t9KCEKXMsU" =         {
+            commentEdge = "[[[";
+            distance = 8;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-S";
+            vertexto = "-LYYOKx9NotlSPz1d-gh";
+        };
+        "-LYaCiDrEVSFWx6nfJrG" =         {
+            commentEdge = "]]]";
+            distance = 8;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx9NotlSPz1d-gh";
+            vertexto = "-LYYOKx8N4VmSr9qUr-S";
+        };
+        "-LYaCiDrEVSFWx6nfJrH" =         {
+            commentEdge = "[[[";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-R";
+            vertexto = "-LYYOKx8N4VmSr9qUr-S";
+        };
+        "-LYaCiDrEVSFWx6nfJrI" =         {
+            commentEdge = "]]]";
+            distance = 6;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-S";
+            vertexto = "-LYYOKx8N4VmSr9qUr-R";
+        };
+        "-LYaCiDrEVSFWx6nfJrJ" =         {
+            commentEdge = "[[[";
+            distance = 2;
+            doorscoordinates = "28 33 27 34";
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-R";
+            vertexto = "-LYYOKx9NotlSPz1d-gi";
+        };
+        "-LYaCiDrEVSFWx6nfJrK" =         {
+            commentEdge = "]]]";
+            distance = 2;
+            doorscoordinates = "28 33 27 34";
+            vertexfrom = "-LYYOKx9NotlSPz1d-gi";
+            vertexto = "-LYYOKx8N4VmSr9qUr-R";
+        };
+        "-LYapw0P2QlA3MHiatlP" =         {
+            commentEdge = "[[[";
+            distance = 1;
+            doorscoordinates = "23 1.5 25 1";
+            vertexfrom = "-LYYOKwtjuC_oQA0OON2";
+            vertexto = "-LYanXAFe-dAVYdeytco";
+        };
+        "-LYapw0RoR0HgnFS59Yn" =         {
+            commentEdge = "]]]";
+            distance = 1;
+            doorscoordinates = "23 1.5 25 1";
+            vertexfrom = "-LYanXAFe-dAVYdeytco";
+            vertexto = "-LYYOKwtjuC_oQA0OON2";
+        };
+        "-LYapw0RoR0HgnFS59Yo" =         {
+            commentEdge = "[[[";
+            distance = 1;
+            doorscoordinates = nil;
+            vertexfrom = "-LYanXAEQ0xnroLl5KEI";
+            vertexto = "-LYYOKx8N4VmSr9qUr-O";
+        };
+        "-LYapw0RoR0HgnFS59Yp" =         {
+            commentEdge = "]]]";
+            distance = 1;
+            doorscoordinates = nil;
+            vertexfrom = "-LYYOKx8N4VmSr9qUr-O";
+            vertexto = "-LYanXAEQ0xnroLl5KEI";
+        };
+    };
+}
